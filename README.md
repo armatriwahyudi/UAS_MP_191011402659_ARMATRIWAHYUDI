@@ -1,0 +1,8 @@
+# News App
+
+NAMA : ARMA TRI WAHYUDI
+NIM : 191011402659
+KELAS : 06TPLM005
+
+## Mockup Design
+
